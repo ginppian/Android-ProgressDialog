@@ -4,7 +4,7 @@ Android: Progress Dialog
 ## Definición
 
 <p align="justify">
-A pesar de ser <i>DEPRECATE</i> es me muy útil.
+A pesar de ser <i>DEPRECATE</i> es muy útil.
 </p>
 
 ```java
